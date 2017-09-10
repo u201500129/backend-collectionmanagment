@@ -1,0 +1,9 @@
+D:\UPC\Desarrollo para plataformas moviles\BackEnd\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\UPC\Desarrollo para plataformas moviles\BackEnd\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\UPC\Desarrollo para plataformas moviles\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\UPC\Desarrollo para plataformas moviles\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\UPC\Desarrollo para plataformas moviles\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\UPC\Desarrollo para moviles\BackEnd\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\UPC\Desarrollo para moviles\BackEnd\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\UPC\Desarrollo para moviles\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\UPC\Desarrollo para moviles\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.pdb
