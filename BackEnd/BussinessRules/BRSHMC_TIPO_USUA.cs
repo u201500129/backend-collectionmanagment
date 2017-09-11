@@ -1,4 +1,4 @@
-﻿using BusinessEntities;
+using BusinessEntities;
 using DataAccess;
 using System;
 using System.Collections;
@@ -14,6 +14,7 @@ namespace BussinessRules
     public class BRSHMC_TIPO_USUA
     {
         private DASHMC_TIPO_USUA oDa;
+
         public BRSHMC_TIPO_USUA()
         {
             oDa = new DASHMC_TIPO_USUA();

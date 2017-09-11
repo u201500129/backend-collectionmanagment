@@ -1,4 +1,4 @@
-﻿using BusinessEntities;
+using BusinessEntities;
 using DataAccess;
 using System;
 using System.Collections;
@@ -18,7 +18,7 @@ namespace BussinessRules
             oDa = new DASHMC_MORO();
         }
         /// <summary>
-        /// OBTENER LA LISTA DE COLABORADORES
+        /// OBTENER LA LISTA DE MOROSOS
         /// </summary>
         /// <param name="oBe"></param>
         /// <returns></returns>

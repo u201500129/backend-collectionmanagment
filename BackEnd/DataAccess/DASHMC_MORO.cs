@@ -1,4 +1,4 @@
-﻿using BusinessEntities;
+using BusinessEntities;
 using Microsoft.Practices.EnterpriseLibrary.Data;
 using System;
 using System.Collections.Generic;
@@ -15,6 +15,7 @@ namespace DataAccess
         private DAGenerics oDg;
         private Database oDb;
         private DbConnection oCon;
+
         /// <summary>
         /// CONTRUCTOR DE LA CLASE
         /// </summary>

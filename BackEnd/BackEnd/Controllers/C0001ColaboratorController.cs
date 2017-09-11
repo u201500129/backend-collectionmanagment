@@ -1,4 +1,4 @@
-﻿using BusinessEntities;
+using BusinessEntities;
 using BussinessRules;
 using System;
 using System.Collections.Generic;
@@ -12,6 +12,7 @@ namespace BackEnd.Controllers
 {
     public class C0001ColaboratorController : ApiController
     {
+
         [HttpPost]
         [Route("C0001G0001")]
         public HttpResponseMessage P0003SHPR_AGEN_LIST(BESHMC_AGEN oBe)
