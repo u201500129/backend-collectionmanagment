@@ -1,4 +1,4 @@
-﻿using BusinessEntities;
+using BusinessEntities;
 using DataAccess;
 using System;
 using System.Collections;
@@ -13,10 +13,12 @@ namespace BussinessRules
     public class BRSHMC_AGEN
     {
         private DASHMC_AGEN oDa;
+
         public BRSHMC_AGEN()
         {
             oDa = new DASHMC_AGEN();
         }
+
         /// <summary>
         /// OBTENER LA LISTA DE COLABORADORES
         /// </summary>

@@ -1,4 +1,4 @@
-﻿using BusinessEntities;
+using BusinessEntities;
 using Microsoft.Practices.EnterpriseLibrary.Data;
 using System;
 using System.Collections.Generic;
@@ -15,6 +15,7 @@ namespace DataAccess
         private DAGenerics oDg;
         private Database oDb;
         private DbConnection oCon;
+
         /// <summary>
         /// CONTRUCTOR DE LA CLASE
         /// </summary>
@@ -22,6 +23,7 @@ namespace DataAccess
         {
             oDg = new DAGenerics("manager");
         }
+
         /// <summary>
         /// OBTENER LA LISTA DE COLABORADORES
         /// </summary>
@@ -38,6 +40,7 @@ namespace DataAccess
                                                                             oBe.ALF_AGEN,
                                                                             oBe.ALF_DNII,
                                                                             oBe.NUM_ACCI);
+
                 ocmd.CommandTimeout = 2000;
                 var odr = oDb.ExecuteReader(ocmd);
                 return (odr);
