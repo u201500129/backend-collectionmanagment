@@ -18,5 +18,6 @@ namespace BusinessEntities
         public string COD_USUA_CREA { get; set; }
         public string COD_USUA_MODI { get; set; }
         public int NUM_ACCI { get; set; }
+
     }
 }
