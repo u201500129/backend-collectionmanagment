@@ -7,3 +7,8 @@ D:\UPC\Desarrollo para moviles\BackEnd\BusinessEntities\bin\Debug\BusinessEntiti
 D:\UPC\Desarrollo para moviles\BackEnd\BusinessEntities\bin\Debug\BusinessEntities.pdb
 D:\UPC\Desarrollo para moviles\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.dll
 D:\UPC\Desarrollo para moviles\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache

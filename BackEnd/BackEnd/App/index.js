@@ -18,8 +18,8 @@ app.config(function ($routeProvider) {
         templateUrl: "Usuario/usuario.html",
         controller: "usuarioController"
     })
-    .when("/blue", {
-        templateUrl: "blue.html",
-        controller: "controllerBlue"
+    .when("/crearCampania", {
+        templateUrl: "Campania/crearCampania.html",
+        controller: "crearCampaniaController"
     });
 });

@@ -16,3 +16,10 @@ D:\UPC\Desarrollo para moviles\BackEnd\DataAccess\bin\Debug\BusinessEntities.pdb
 D:\UPC\Desarrollo para moviles\BackEnd\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 D:\UPC\Desarrollo para moviles\BackEnd\DataAccess\obj\Debug\DataAccess.dll
 D:\UPC\Desarrollo para moviles\BackEnd\DataAccess\obj\Debug\DataAccess.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\DataAccess\bin\Debug\DataAccess.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\DataAccess\bin\Debug\DataAccess.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\DataAccess\bin\Debug\BusinessEntities.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\DataAccess\bin\Debug\BusinessEntities.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\DataAccess\obj\Debug\DataAccess.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\DataAccess\obj\Debug\DataAccess.pdb

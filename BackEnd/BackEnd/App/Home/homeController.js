@@ -13,7 +13,7 @@
             $location.path("/usuario");
         }
         else if (e.itemData.text === "Crear campaña") {
-            $location.path("/home");
+            $location.path("/crearCampania");
         }
         else if (e.itemData.text === "Cerrar campaña") {
             $location.path("/home");

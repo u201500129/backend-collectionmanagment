@@ -48,3 +48,28 @@ D:\UPC\Desarrollo para moviles\BackEnd\BackEnd\bin\Microsoft.Practices.Enterpris
 D:\UPC\Desarrollo para moviles\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
 D:\UPC\Desarrollo para moviles\BackEnd\BackEnd\obj\Debug\BackEnd.dll
 D:\UPC\Desarrollo para moviles\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\BackEnd.dll.config
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\BackEnd.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\BackEnd.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\BusinessEntities.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\BussinessRules.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\System.Web.Http.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\DataAccess.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\ResultSetMappers.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\BusinessEntities.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\BussinessRules.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\System.Web.Http.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\DataAccess.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BackEnd\obj\Debug\BackEnd.pdb

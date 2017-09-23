@@ -75,6 +75,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App\Campania\crearCampania.html" />
+    <Content Include="App\Campania\crearCampaniaController.js" />
     <Content Include="App\Home\home.html" />
     <Content Include="App\Home\homeController.js" />
     <Content Include="App\Login\logout.html" />
@@ -192,7 +194,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App\Campania\" />
     <Folder Include="App\CargarAgente\" />
     <Folder Include="App\CargarMoros\" />
     <Folder Include="App\CerrarCampania\" />

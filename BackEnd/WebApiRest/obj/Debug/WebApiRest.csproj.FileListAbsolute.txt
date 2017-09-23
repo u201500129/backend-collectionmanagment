@@ -23,3 +23,28 @@ D:\UPC\Desarrollo para moviles\BackEnd\WebApiRest\bin\DataAccess.pdb
 D:\UPC\Desarrollo para moviles\BackEnd\WebApiRest\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
 D:\UPC\Desarrollo para moviles\BackEnd\WebApiRest\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
 D:\UPC\Desarrollo para moviles\BackEnd\WebApiRest\obj\Debug\WebApiRest.csprojResolveAssemblyReference.cache
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\WebApiRest.dll.config
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\WebApiRest.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\WebApiRest.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\BusinessEntities.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\BussinessRules.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\Newtonsoft.Json.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\System.Net.Http.Formatting.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\System.Web.Http.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\System.Web.Http.WebHost.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\DataAccess.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\ResultSetMappers.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\BusinessEntities.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\BussinessRules.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\Newtonsoft.Json.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\System.Net.Http.Formatting.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\System.Web.Http.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\System.Web.Http.WebHost.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\DataAccess.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\obj\Debug\WebApiRest.csprojResolveAssemblyReference.cache
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\obj\Debug\WebApiRest.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\WebApiRest\obj\Debug\WebApiRest.pdb

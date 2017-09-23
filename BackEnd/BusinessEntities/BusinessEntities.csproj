@@ -42,6 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BESHMC_CAMP.cs" />
+    <Compile Include="BESHMC_MORO.cs" />
+    <Compile Include="BESHMC_REPO.cs" />
     <Compile Include="BESHMC_TIPO_USUA.cs" />
     <Compile Include="BESHMC_USUA.cs" />
     <Compile Include="BESHMC_AGEN.cs" />

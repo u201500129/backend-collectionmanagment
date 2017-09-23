@@ -24,3 +24,15 @@ D:\UPC\Desarrollo para moviles\BackEnd\BussinessRules\bin\Debug\Microsoft.Practi
 D:\UPC\Desarrollo para moviles\BackEnd\BussinessRules\obj\Debug\BussinessRules.csprojResolveAssemblyReference.cache
 D:\UPC\Desarrollo para moviles\BackEnd\BussinessRules\obj\Debug\BussinessRules.dll
 D:\UPC\Desarrollo para moviles\BackEnd\BussinessRules\obj\Debug\BussinessRules.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\bin\Debug\BussinessRules.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\bin\Debug\BussinessRules.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\bin\Debug\BusinessEntities.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\bin\Debug\DataAccess.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\bin\Debug\BusinessEntities.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\bin\Debug\DataAccess.pdb
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\obj\Debug\BussinessRules.csprojResolveAssemblyReference.cache
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\obj\Debug\BussinessRules.dll
+D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BussinessRules\obj\Debug\BussinessRules.pdb
