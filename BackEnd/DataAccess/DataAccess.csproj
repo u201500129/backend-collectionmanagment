@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="DAGenerics.cs" />
     <Compile Include="DASHMC_AGEN.cs" />
+    <Compile Include="DASHMC_CAMP.cs" />
     <Compile Include="DASHMC_MORO.cs" />
     <Compile Include="DASHMC_REPO.cs" />
     <Compile Include="DASHMC_TIPO_USUA.cs" />

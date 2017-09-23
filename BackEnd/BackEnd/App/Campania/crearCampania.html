@@ -6,7 +6,7 @@
     <div id="gdvCampaign" style="width:100%" data-ng-init="initData()" dx-data-grid="{
             columns:[
                         {
-                            dataField:'COD_USUA',
+                            dataField:'COD_CAMP',
                             caption:' ',
                             width:50,
                             cellTemplate: cellTemplate,
@@ -15,10 +15,10 @@
                             allowFiltering: false,
                             alignment: 'center'
                         },
-						{ dataField:'COD_USUA',caption:'Campaña',width:100},
-						{ dataField:'ALF_AGEN',caption:'Desde',width:200},
-						{ dataField:'ALF_DNII',caption:'Hasta',width:150},
-						{ dataField:'ALF_DIRE',caption:'Cliente',width:300}
+						{ dataField:'ALF_CAMP',caption:'Campaña',width:250},
+						{ dataField:'FEC_DESD',caption:'Desde',width:100,type:'date'},
+						{ dataField:'FEC_HAST',caption:'Hasta',width:100},
+						{ dataField:'ALF_CLIE',caption:'Cliente',width:300}
             ],
             filterRow: {
                 visible: true
@@ -35,7 +35,7 @@
             },
             summary:{
 	            totalItems:[{
-		            column: 'Nombre comercio',
+		            column: 'ALF_CAMP',
 		            summaryType: 'count'
 	            }]
             },

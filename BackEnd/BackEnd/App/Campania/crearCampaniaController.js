@@ -14,12 +14,13 @@
     userFactory.NUM_ACCI = 0;
 
     $scope.initData = function () {
-        $http.post('../C0003G0001',
+        $http.post('../C0005G0001',
                         JSON.stringify({
                             NUM_ACCI: 1
                         }))
                     .success(function (oList) {
-                        $("#gdvUsers").dxDataGrid("instance").option("dataSource", oList);
+                        console.log(oList);
+                        $("#gdvCampaign").dxDataGrid("instance").option("dataSource", oList);
                     }).error(function (err) {
                         DevExpress.ui.notify(err.Message, 'error', 3000);
                     });

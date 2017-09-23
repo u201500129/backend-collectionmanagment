@@ -54,7 +54,7 @@ namespace BackEnd.Controllers
                 oBe.COD_USUA_CREA = (string)HttpContext.Current.Session["username"];
                 oBe.COD_USUA_MODI = (string)HttpContext.Current.Session["username"];
                 oBr.P0005SHPR_USUA(oBe);
-                return Request.CreateResponse(HttpStatusCode.OK, "Operación concretada con exito.");
+                return Request.CreateResponse(HttpStatusCode.OK, oBe);
             }
             catch (Exception ex)
             {

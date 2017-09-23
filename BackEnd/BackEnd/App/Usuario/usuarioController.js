@@ -113,8 +113,9 @@
                             NUM_ACCI: userFactory.NUM_ACCI
                         }))
                     .success(function (oBe) {
-                        DevExpress.ui.notify(oBe, 'success', 3000);
-                        $scope.initData;
+                        DevExpress.ui.notify(oBe, 'Operación concreatada con exito!!!', 3000);
+                        $("#txtNUM_TOKE").dxTextBox("instance").option("value",oBe.NUM_TOKE);
+                        $scope.initData();
                     }).error(function (err) {
                         DevExpress.ui.notify(err.Message, 'error', 3000);
                     });

@@ -90,12 +90,14 @@ namespace DataAccess
                                                                                 oBe.ALF_PASS,
                                                                                 oBe.COD_TIPO_USUA,
                                                                                 oBe.IND_ACTI,
+                                                                                oBe.NUM_TOKE,
                                                                                 oBe.COD_USUA_CREA,
                                                                                 oBe.COD_USUA_MODI,
                                                                                 oBe.NUM_ACCI))
                         {
                             ocmd.CommandTimeout = 2000;
                             oDb.ExecuteNonQuery(ocmd, obts);
+                            oBe.NUM_TOKE = Convert.ToInt32(oDb.GetParameterValue(ocmd, "@P0005NUM_TOKE"));
                             obts.Commit();
                         }
                     }
@@ -132,10 +134,14 @@ namespace DataAccess
                     {
                         using (var ocmd = oDb.GetStoredProcCommand("P0006SHPR_USUA",
                                                                                 oBe.COD_USUA,
-                                                                                oBe.NUM_TOKE))
+                                                                                oBe.NUM_TOKE,
+                                                                                oBe.ALF_PASS,
+                                                                                oBe.ALF_AGEN,
+                                                                                oBe.NUM_ACCI))
                         {
                             ocmd.CommandTimeout = 2000;
                             oDb.ExecuteNonQuery(ocmd, obts);
+                            oBe.ALF_AGEN = Convert.ToString(oDb.GetParameterValue(ocmd, "@P0006ALF_AGEN"));
                             obts.Commit();
                         }
                     }

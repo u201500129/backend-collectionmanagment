@@ -179,6 +179,7 @@
     <Compile Include="Controllers\C0002LoginController.cs" />
     <Compile Include="Controllers\C0003UsuarioController.cs" />
     <Compile Include="Controllers\C0004UserTypeController.cs" />
+    <Compile Include="Controllers\C0005CampaignController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

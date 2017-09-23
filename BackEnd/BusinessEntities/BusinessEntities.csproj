@@ -48,6 +48,7 @@
     <Compile Include="BESHMC_TIPO_USUA.cs" />
     <Compile Include="BESHMC_USUA.cs" />
     <Compile Include="BESHMC_AGEN.cs" />
+    <Compile Include="BESHMC_USUA_RESP.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

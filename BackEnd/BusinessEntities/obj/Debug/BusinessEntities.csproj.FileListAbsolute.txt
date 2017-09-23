@@ -11,4 +11,3 @@ D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BusinessEntities\bin\Debug\Bu
 D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BusinessEntities\bin\Debug\BusinessEntities.pdb
 D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.dll
 D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.pdb
-D:\UPC\Moviles\collectionmanagment-backend\BackEnd\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache

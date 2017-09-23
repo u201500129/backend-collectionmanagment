@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BRSHMC_AGEN.cs" />
+    <Compile Include="BRSHMC_CAMP.cs" />
     <Compile Include="BRSHMC_MORO.cs" />
     <Compile Include="BRSHMC_REPO.cs" />
     <Compile Include="BRSHMC_TIPO_USUA.cs" />
